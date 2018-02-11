@@ -1,0 +1,3 @@
+[submodule "extras/flask-skeleton"]
+	path = extras/flask-skeleton
+	url = git@github.com:zjyExcelsior/flask-skeleton.git
